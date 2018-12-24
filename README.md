@@ -4,12 +4,12 @@ A sample weather PWA for practicing.
 
 ## Deploying
 
-## new to firebase
+### new to firebase
 
 - create a firebase account at <https://firebase.google.com/console/>
 - install firebase tools: `npm install -g firebase-tools`
 
-## account created
+### account created
 
 - add a new project at <https://console.firebase.google.com/>
 - login with command line: `firebase login`
