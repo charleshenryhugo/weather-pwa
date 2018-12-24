@@ -19,4 +19,4 @@ A sample weather PWA for practicing.
 
 ## References
 
-<https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/#cache_the_site_assets>
+<https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/>
